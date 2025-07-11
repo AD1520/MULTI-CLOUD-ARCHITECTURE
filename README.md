@@ -17,9 +17,10 @@ As part of my internship at CodTech, I designed and implemented a Multi-Cloud Ar
 
 **WEBSITE LINK**: https://red-smoke-0bb74771e.2.azurestaticapps.net/
 
-**FRONT END**: 
+**FRONT END(AZURE-STATIC WEB APP)**: 
+<img width="1919" height="830" alt="Image" src="https://github.com/user-attachments/assets/afd3ec1a-7dd0-464a-a329-2b49c7ffa55b" />
 
-**BACKEND**: 
+**BACKEND(AWS LAMBDA)**: 
 
 
 # OUTPUT
