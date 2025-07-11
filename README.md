@@ -17,4 +17,10 @@ As part of my internship at CodTech, I designed and implemented a Multi-Cloud Ar
 
 **WEBSITE LINK**: https://red-smoke-0bb74771e.2.azurestaticapps.net/
 
+**FRONT END**: 
+
+**BACKEND**: 
+
+
 # OUTPUT
+<img width="1919" height="825" alt="Image" src="https://github.com/user-attachments/assets/901ec2ec-fff3-49fa-ae31-418fad890488" />
