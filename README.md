@@ -24,7 +24,7 @@ As part of my internship at CodTech, I designed and implemented a Multi-Cloud Ar
 <img width="1917" height="825" alt="Image" src="https://github.com/user-attachments/assets/84a0a63a-9ede-4aef-9b2a-0171021a7065" />
 <img width="1903" height="816" alt="Image" src="https://github.com/user-attachments/assets/087d8621-f5ef-4638-9b30-ac7cb2789cf7" />
 <img width="1919" height="828" alt="Image" src="https://github.com/user-attachments/assets/cb49752a-fedb-4850-93db-2ddc3bbe9683" />
-
+<img width="1919" height="758" alt="Image" src="https://github.com/user-attachments/assets/aed0fd51-d59d-40e6-becd-3081b59a96d9" />
 
 # OUTPUT
 <img width="1919" height="825" alt="Image" src="https://github.com/user-attachments/assets/901ec2ec-fff3-49fa-ae31-418fad890488" />
